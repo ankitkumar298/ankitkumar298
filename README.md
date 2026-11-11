@@ -442,7 +442,7 @@ A high-performance console resource system engineered with **pure Object-Oriente
 
 <br>
 
-<a href="https://github.com/Ankit-298"><img src="https://img.shields.io/badge/GitHub-Ankit--298-161B22?style=for-the-badge&logo=github&logoColor=8957E5&labelColor=0D1117"/></a>
+<a href="https://github.com/ankitkumar298"><img src="https://img.shields.io/badge/GitHub-ankitKumar298-161B22?style=for-the-badge&logo=github&logoColor=8957E5&labelColor=0D1117"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/ankit-kumar-925421z/"><img src="https://img.shields.io/badge/LinkedIn-Ankit%20Kumar-161B22?style=for-the-badge&logo=linkedin&logoColor=1F6FEB&labelColor=0D1117"/></a>
 
