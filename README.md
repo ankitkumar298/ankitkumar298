@@ -452,7 +452,7 @@ A high-performance console resource system engineered with **pure Object-Oriente
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Ankit-298&label=THANK+YOU+FOR+VISITING&color=1F6FEB&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=Ankitkumar298&label=THANK+YOU+FOR+VISITING&color=1F6FEB&style=flat-square"/>
 
 <br><br>
 
